@@ -10,7 +10,8 @@ Current version : 1.0
 
 # Usage
 
-After cloning the repository, run the following command in the directory with `package.json` in it:
+After cloning the repository, run the following command in the directory with `package.json`
+in it:
 
 ```bash
 npm install
