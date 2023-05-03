@@ -19,7 +19,8 @@ npm install
 
 This command will install the necessary modules required to use the app.
 
-The following functionalities are supported:
+The following functionalities are supported (you may run `node app.js --help`
+to see in console):
 
 - Adding a note
 
