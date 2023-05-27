@@ -47,3 +47,8 @@ node app.js read --title="<title_name>"
 ```
 
 ---
+
+Project started on: 12/04/2023
+
+(v1.0) First functional version completed on: 24/04/2023
+
